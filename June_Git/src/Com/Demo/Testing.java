@@ -13,6 +13,11 @@ public class Testing
 		System.out.println("Pawar-----Hello");
 		
 	}
+	public void m3()
+	{
+		System.out.println("cjc-----Hello");
+		
+	}
 	
 
 	public static void main(String[] args)
@@ -20,6 +25,7 @@ public class Testing
 		Testing t=new Testing();
 		t.m1();
 		t.m2();
+		t.m3();
 	}
 
 }
